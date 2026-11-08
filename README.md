@@ -7,4 +7,6 @@
 - **001: נטישה בתהליך התשלום במובייל.** תהליך שהסתיים: יש בו [סיכום לעיצוב ולמוצר](design/explorations/001-checkout-mobile/summary.md) ו[מסמך העברה למפתחים](design/explorations/001-checkout-mobile/handoff.md).
 - **002: שמירת כרטיס ללקוחות חוזרים.** תהליך פעיל, בשלב הכיוונים. מכאן מתחילים בדמו: פותחים את התוסף ב-Figma, מצרפים frames לכיוונים ועוברים את השער.
 
+- **[research/raw-notes-saved-cards.md](research/raw-notes-saved-cards.md):** הערות גולמיות מראיונות, פניות שירות ונתונים, בדויות. מדביקים אותן ב-Claude עם ה-skill של d2s ושואלים "מה יוצא מזה?". את מסמך התובנות שחוזר מדביקים בתוסף, ב"הדבקה מ-Claude".
+
 כל מה שנשמר מהתוסף מגיע לכאן כ-commit. סוכני קוד (Claude Code, Cursor) קוראים את אותם קבצים מהתיקייה, דרך הפקודות שב-`.claude/skills` ו-`.cursor/commands`.
