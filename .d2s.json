@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "lang": "he",
+  "dir": "design",
+  "cli": "npx github:eranlipi/discovery-to-spec",
+  "approvals": {
+    "roles": [
+      "product",
+      "design",
+      "engineering"
+    ],
+    "allowSamePerson": false,
+    "verify": "none"
+  }
+}
